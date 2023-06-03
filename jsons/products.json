@@ -1,0 +1,132 @@
+
+
+[
+ 
+    {
+      "id": "Bon o Bon negro",
+      "category": "alfajores",
+      "name": "Bon o Bon negro",
+      "stock": 10,
+      "price": 250,
+      "image": "assets/productos/alfajores/bonobon.png"
+    },
+    {
+      "id": "Bon o Bon blanco",
+      "category": "Alfajores",
+      "name": "Bon o Bon blanco",
+      "stock": 5,
+      "price": 270,
+      "image": "assets/productos/alfajores/bonobon-blanco.png"
+    },
+    {
+      "id": "Cofler Block",
+      "category": "Alfajores",
+      "name": "Cofler Block",
+      "stock": 5,
+      "price": 270,
+      "image": "assets/productos/alfajores/cofler-block.png"
+    },
+    {
+      "id": "Tofi negro",
+      "category": "Alfajores",
+      "name": "Tofi negro",
+      "stock": 5,
+      "price": 270,
+      "image": "assets/productos/alfajores/tofi-triple.png"
+    },
+    {
+      "id": "Tofi blanco",
+      "category": "Alfajores",
+      "name": "Tofi blanco",
+      "stock": 5,
+      "price": 270,
+      "image": "assets/productos/alfajores/tofi-triple-blanco.png"
+    },
+    {
+      "id": "Mini torta Aguila",
+      "category": "Alfajores",
+      "name": "Mini torta Aguila",
+      "stock": 5,
+      "price": 270,
+      "image": "assets/productos/alfajores/aguila-minitorta.png"
+    },
+    {
+      "id": "Mini torta Brownie Aguila",
+      "category": "Alfajores",
+      "name": "Mini torta Brownie Aguila",
+      "stock": 5,
+      "price": 270,
+      "image": "assets/productos/alfajores/aguila-minitorta-brownie.png"
+    },
+    {
+      "id": "Mini torta Coco Aguila",
+      "category": "Alfajores",
+      "name": "Mini torta Coco Aguila",
+      "stock": 5,
+      "price": 270,
+      "image": "assets/productos/alfajores/aguila-minitorta-coco.png"
+    },
+    {
+      "id": "Mini torta Blanco Aguila",
+      "category": "Alfajores",
+      "name": "Mini torta Blanco Aguila",
+      "stock": 5,
+      "price": 270,
+      "image": "assets/productos/alfajores/aguila-minitorta-blanco.png"
+    },
+    {
+      "id": "Tatin negro",
+      "category": "Alfajores",
+      "name": "Tatin negro",
+      "stock": 5,
+      "price": 270,
+      "image": "assets/productos/alfajores/tatin-negro.png"
+    },
+    {
+        "id": "Tatin blanco",
+        "category": "Alfajores",
+        "name": "Tatin blanco",
+        "stock": 5,
+        "price": 270,
+        "image": "assets/productos/alfajores/tatin-blanco.png"
+        
+    },
+    {
+      "id": "Dientes mogul",
+      "category": "Gomitas",
+      "name": "Dientes mogul",
+      "stock": 5,
+      "price": 270,
+      "image": "assets/productos/gomitas/mogul-dientes-500.png"
+      
+    },
+    {
+      "id": "Moras mogul",
+      "category": "Gomitas",
+      "name": "Moras mogul",
+      "stock": 5,
+      "price": 270,
+      "image": "assets/productos/gomitas/mogul-moras-500.png"
+      
+    },
+    {
+      "id": "Gomitas de eucalipto mogul",
+      "category": "Gomitas",
+      "name": "Gomitas de eucalipto mogul",
+      "stock": 5,
+      "price": 270,
+      "image": "assets/productos/gomitas/mogul-eucalipto.png"
+      
+    },
+    {
+      "id": "Tiburoncitos mogul",
+      "category": "Gomitas",
+      "name": "Tiburoncitos mogul",
+      "stock": 5,
+      "price": 270,
+      "image": "assets/productos/gomitas/mogul-tiburoncitos.png"
+      
+    }
+    ]
+    
+        
